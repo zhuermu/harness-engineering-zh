@@ -14,8 +14,8 @@
 |---|---|---|---|---|
 | 1 | 什么是 Harness Engineering：模型之外的一切 | [课件](./l01-what-is-harness/) | [PDF](./l01-what-is-harness/l01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 2 | 拆解 Pi：只有四个工具，凭什么撑起 OpenClaw | [课件](./l02-pi/) | [PDF](./l02-pi/l02-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
-| 3 | 拆解 Claude Code | 制作中 | | |
-| 4 | 拆解 Codex | 制作中 | | |
+| 3 | 拆解 Claude Code：怎么管住一个会自夸的 agent | [课件](./l03-claude-code/) | [PDF](./l03-claude-code/l03-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 4 | 100 万行代码零手写：拆解 Codex 和 OpenAI 的 harness 工程 | [课件](./l04-codex/) | [PDF](./l04-codex/l04-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 5 | 拆解 DeepSeek Harness | 制作中 | | |
 
 ## 说明
